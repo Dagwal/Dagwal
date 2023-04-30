@@ -2,8 +2,7 @@
 <h3 align="center">A passionaote full-stack developer and Hacker from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagwal&label=Profile%20views&color=0e75b6&style=flat" alt="dagwal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagwal" alt="dagwal" /></a> </p>
-<img align="right" width=350 src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif"/>
-<img align="right" width=400 src="https://media.tenor.com/rePDfDWO3XoAAAAS/hacking.gif"/>
+<img align="right" width=450 src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif"/>
 
 <p align="left"> <a href="https://twitter.com/dagwal3" target="blank"><img src="https://img.shields.io/twitter/follow/dagwal3?logo=twitter&style=for-the-badge" alt="dagwal3" /></a> </p>
 
@@ -14,6 +13,8 @@
 - 💬 Ask me about **Python, React, Javascript, CSS, HTML**
 
 - 📫 How to reach me **dagimwalelegne@gmail.com**
+
+- ⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagwal&show_icons=true&locale=en&layout=compact" alt="dagwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagwal&show_icons=true&locale=en" alt="dagwal" /></p>
-
+<img align="right" width=400 src="https://media.tenor.com/rePDfDWO3XoAAAAS/hacking.gif"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
+
 
 Full-Stack Software Engineer + Cyber Secuity
