@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dagimwalelegne@gmail.com**
 
-- ⚡ Fun fact
+- ⚡ Fun fact..Watch those videos :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
