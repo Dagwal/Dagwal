@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagim Wallelgne</h1>
-<h3 align="center">A Passionaote Full-Stack Developer And Securiy Engineer From Ethiopia</h3>
+<h3 align="center">A Passionate Full-Stack Developer And Securiy Engineer From Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagwal&label=Profile%20views&color=0e75b6&style=flat" alt="dagwal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagwal" alt="dagwal" /></a> </p>
 <img align="right" width=450 src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif"/>
