@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/dagwal3" target="blank"><img src="https://img.shields.io/twitter/follow/dagwal3?logo=twitter&style=for-the-badge" alt="dagwal3" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I have finished learning **Software Engineering at ALX_UNIVERSITY**
  
 - 📝 I regularly write articles on [https://t.me/+yIkS9EFhe1xlMTU0](https://t.me/+yIkS9EFhe1xlMTU0)
 
-- 💬 Ask me about **Python, React, Javascript, CSS, HTML**
+- 💬 Ask me about **Python, React, Javascript, CSS, MongoDB, Express, HTML, Node**
 
 - 📫 How to reach me **dagimwalelegne@gmail.com**
 
