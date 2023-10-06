@@ -33,4 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
 
 
-Full-Stack Software Engineer + Cyber Secuity
+Full-Stack Software Engineer + Secuity
+Engineer
