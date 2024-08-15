@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dagim Wallelgne</h1>
-<h3 align="center"> Software Developer And Securiy Engineer From Ethiopia</h3>
+<h3 align="center">A Modern Programmer & Security Enthusiast from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagwal&label=Profile%20views&color=0e75b6&style=flat" alt="dagwal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagwal" alt="dagwal" /></a> </p>
-<img align="right" width=450 src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif"/>
 
 <p align="left"> <a href="https://twitter.com/dagwal3" target="blank"><img src="https://img.shields.io/twitter/follow/dagwal3?logo=twitter&style=for-the-badge" alt="dagwal3" /></a> </p>
 
-- 🌱 I have finished learning **Software Engineering at ALX_UNIVERSITY**
- 
-- 📝 I regularly write articles on [https://t.me/+yIkS9EFhe1xlMTU0](https://t.me/+yIkS9EFhe1xlMTU0)
+- 🌱 I am a **Software Engineering graduate from ALX_UNIVERSITY** with a passion for modern web technologies.
 
-- 💬 Ask me about **Python, React, Javascript, CSS, MongoDB, Express, HTML, Node**
+- 📝 I share insights and tutorials on [my Telegram channel](https://t.me/+yIkS9EFhe1xlMTU0).
 
-- 📫 How to reach me **dagimwalelegne@gmail.com**
+- 💬 I specialize in **NestJS, Python, React, Tailwind CSS, TypeScript, PostgreSQL, SQL, JavaScript, CSS, MongoDB, Express, and Node.js**.
 
-- ⚡ Fun fact..Watch those videos :)
+- 🐞 As a hobby, I enjoy **bug hunting** and improving application security.
+
+- 📫 Feel free to reach out to me at **dagimwalelegne@gmail.com**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagwal&show_icons=true&locale=en&layout=compact" alt="dagwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagwal&show_icons=true&locale=en" alt="dagwal" /></p>
-<img align="right" width=400 src="https://media.tenor.com/rePDfDWO3XoAAAAS/hacking.gif"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
 
 
