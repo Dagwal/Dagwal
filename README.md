@@ -14,7 +14,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagwal&show_icons=true&locale=en&layout=compact" alt="dagwal" /></p>
-
 Full-Stack Software Engineer + Secuity
 Engineer
