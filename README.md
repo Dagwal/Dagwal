@@ -9,8 +9,6 @@
 
 - 🐞 As a hobby, I enjoy **bug hunting** and improving application security.
 
-- 📫 Feel free to reach out to me at **dagimwalelegne@gmail.com**.
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
 
