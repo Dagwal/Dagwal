@@ -5,7 +5,7 @@
 
 - 📝 I share insights and tutorials on [my Telegram channel](https://t.me/+yIkS9EFhe1xlMTU0).
 
-- 💬 I specialize in **NestJS, TypeScript, React, Nextjs, Node, Python, React, Tailwind CSS, PostgreSQL, MongoDB, SQL, JavaScript, CSS & Express**.
+- 💬 I specialize in **TypeScript, NestJS, Nextjs, & PostgreSQL**.
 
 - 🐞 As a hobby, I enjoy **bug hunting** and improving application security.
 
