@@ -10,7 +10,5 @@
 - 🐞 As a hobby, I enjoy **bug hunting** and improving application security.
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagwal&" alt="dagwal" /></p>
-
 Full-Stack Software Engineer + Secuity
 Engineer
