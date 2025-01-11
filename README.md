@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dagim Wallelgne</h1> <h3 align="center">Full-Stack Developer | Security Engineer | Tech Entrepreneur</h3>
-🌱 I’m a passionate Software Engineer specializing in modern web technologies and building scalable, secure applications.
+<h1 align="center">Hi, I'm Dagim Wallelgne 👋</h1> <h3 align="center">Full-Stack Developer | Security Engineer | Tech Entrepreneur</h3>
+🔧 Expertise:
 
-🛠️ Tech Stack: Expertise in TypeScript, NestJS, Next.js, and PostgreSQL to create powerful, efficient web applications.
+Frontend: React.js, Next.js, Tailwind CSS
+Backend: TypeScript, NestJS, Node.js
+Databases: PostgreSQL, MySQL, MongoDB
+Cloud & DevOps: AWS, Docker, CI/CD Pipelines
+Security: Penetration Testing, Vulnerability Assessment, Bug Bounties
 
-🐞 As a hobby, I enjoy bug hunting and improving application security, combining my development skills with cybersecurity knowledge.
+🌍 Who is Dagim:
+A Software Engineer and Security Enthusiast from Ethiopia, passionate about building scalable web applications and improving cybersecurity. With a strong foundation in modern web technologies and a knack for solving complex technical challenges, I help businesses strengthen their digital presence while ensuring security measures.
 
-🚀 I’m always open to collaborations, consulting, or freelance opportunities to help businesses thrive with modern web solutions and security enhancements.
+🎯 Business-Oriented Approach:
+I work with startups and growing businesses, focusing on delivering high-quality software solutions that align with business goals and drive growth. My approach combines technical proficiency and entrepreneurial insight to create impactful solutions for my clients.
 
-Feel free to connect and explore projects in tech or business!
+📧 Contact:
+I’m always open to discussions on collaborations, consulting, or developing solutions in tech and security. Feel free to connect with me.
