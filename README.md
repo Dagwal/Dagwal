@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dagim Wallelgne</h1>
-<h3 align="center">A Modern Programmer & Security Enthusiast from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Dagim Wallelgne</h1> <h3 align="center">Full-Stack Developer | Security Engineer | Tech Entrepreneur</h3>
+🌱 I’m a passionate Software Engineer specializing in modern web technologies and building scalable, secure applications.
 
-- 🌱 I am a **Software Engineer** with a passion for modern web technologies.
+🛠️ Tech Stack: Expertise in TypeScript, NestJS, Next.js, and PostgreSQL to create powerful, efficient web applications.
 
-- 📝 I share insights and tutorials on [my Telegram channel](https://t.me/+yIkS9EFhe1xlMTU0).
+🐞 As a hobby, I enjoy bug hunting and improving application security, combining my development skills with cybersecurity knowledge.
 
-- 💬 I specialize in **TypeScript, NestJS, Nextjs, & PostgreSQL**.
+🚀 I’m always open to collaborations, consulting, or freelance opportunities to help businesses thrive with modern web solutions and security enhancements.
 
-- 🐞 As a hobby, I enjoy **bug hunting** and improving application security.
-
-
-Full-Stack Software Engineer + Secuity
-Engineer
+Feel free to connect and explore projects in tech or business!
